@@ -1,60 +1,62 @@
-🎯 Phishing Simulation – Task 2
-This repository documents the phishing simulation exercise undertaken for Task 2 of my cybersecurity internship. The objective was to replicate real-world phishing scenarios to evaluate user awareness and develop improved training strategies.
+##🔐 PHISHING SIMULATION – TASK 2
 
-📁 Directory Overview
-▶️ Phishing_Attack_Logs/
+This repository contains my submission for Task 2 of the cybersecurity internship, focused on executing a controlled phishing simulation. The objective was to design and deploy a realistic phishing attack, measure user responses, and draw insights for future security training.
+
+📁 PROJECT STRUCTURE
+📂 Phishing_Data/
 Includes:
 
-Data analysis of phishing campaign responses
+Detailed campaign logs
 
-Video recordings of phishing emails and the spoofed login interface
+Video recordings showing email interaction and login page activity
 
-▶️ Final_Report/
-Contains:
+📂 Final_Report/
+Includes:
 
-📄 Task2_Phishing_Simulation_Analysis.docx – Comprehensive documentation covering attack setup, user behavior analysis, and actionable training suggestions
+📄 Phishing_Task2_Jeet_Report.docx – A comprehensive analysis of the phishing campaign strategy, outcomes, and recommendations for user awareness training
 
-🛠️ Tools & Frameworks Utilized
-Gophish – for phishing campaign management
+🛠️ TOOLS & RESOURCES USED
+Gophish – Used to manage the email phishing campaign and track engagement
 
-Social Engineering Toolkit (SET) – to craft realistic phishing content
+Social Engineering Toolkit (SET) – For crafting believable phishing messages
 
-Customized Gmail Clone – to simulate credential harvesting scenarios
+Custom Gmail Clone Page – Built to simulate a credential-harvesting scenario
 
-📌 Campaign Overview
-Phishing Scenarios Simulated:
-Fake Notification from a Cybersecurity Authority – Instructing users to review account folders
+📌 SIMULATION OVERVIEW
+📨 Scenario:
+A phishing email pretending to be from a security monitoring service alerted users of unusual activity and instructed them to verify their account by logging in via a provided link.
 
-Spoofed Alert Email – Sent from cybercrime.analysts1930@gmail.com, warning about suspicious login attempts and urging immediate verification
+Spoofed Email ID: alerts.cybersecunit2025@gmail.com
 
-🔗 Phishing Mechanism: The embedded link redirected recipients to a forged Gmail login page.
+📎 Link Behavior: Redirected users to a cloned Gmail login page designed to mimic the real interface closely.
 
-🛑 Security Message on Submission:
+📢 Final Message After Login Attempt:
 
-"This is a simulated phishing page. Never submit credentials on unknown or suspicious websites."
+"Warning: This is part of a phishing test. Never trust suspicious login links!"
 
-📊 Outcome & Insights
-Emails Sent: 10
+📊 RESULTS & INSIGHTS
+Phishing Emails Sent: 8 (to Gmail accounts I created)
 
-User Interactions: 7
+Successful Logins Captured: 3
 
-Engagement Rate: 70%
+Engagement Rate: 37.5%
 
-📌 Key Takeaway:
-A majority of users fell for the simulation, underlining the urgent need for continuous cybersecurity training and phishing awareness programs.
+📌 Observation:
+Even in a controlled test, nearly 40% of accounts submitted their login data, indicating high effectiveness of well-crafted phishing attempts and highlighting the need for ongoing awareness training.
 
-Insights from user behavior were used to shape the training recommendations detailed in the final report.
+🧠 SKILLS DEVELOPED
+Practical understanding of social engineering
 
-🧠 Skills Acquired
-Crafting Phishing Scenarios
+Crafting and delivering phishing emails
 
-Simulated Email Attacks
+Cloning login pages for educational simulation
 
-Behavioral Analysis of Targets
+Analyzing user behavior under phishing conditions
 
-Designing Security Awareness Programs
+Building recommendations for security education
 
-📬 Contact Information
+📬 CONTACT DETAILS
 Prepared by: Jeet Nishad
 Email: jeetnishad12@gmail.com
 Submission Date: April 2025
+
