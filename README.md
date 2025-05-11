@@ -1,4 +1,4 @@
-#🔐 PHISHING SIMULATION – TASK 2
+#🔐 PHISHING SIMULATION – TASK 2#
 
 This repository contains my submission for Task 2 of the cybersecurity internship, focused on executing a controlled phishing simulation. The objective was to design and deploy a realistic phishing attack, measure user responses, and draw insights for future security training.
 
