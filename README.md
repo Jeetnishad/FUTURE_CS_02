@@ -26,7 +26,7 @@ Custom Gmail Clone Page – Built to simulate a credential-harvesting scenario
 📨 Scenario:
 A phishing email pretending to be from a security monitoring service alerted users of unusual activity and instructed them to verify their account by logging in via a provided link.
 
-Spoofed Email ID: alerts.cybersecunit2025@gmail.com
+Spoofed Email ID: sinxkaran3@gmail.com
 
 📎 Link Behavior: Redirected users to a cloned Gmail login page designed to mimic the real interface closely.
 
